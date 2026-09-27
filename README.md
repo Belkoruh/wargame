@@ -54,7 +54,7 @@ L'infrastructure cible repose sur une pile **micro-services 3-tiers redondée** 
 ```mermaid
 flowchart TD
     subgraph LAN["Réseau Local d'Évaluation (Bridge / DHCP)"]
-        Attacker["💻 Machine d'Attaque (Kali / Parrot)"]
+        Attacker["💻 Machine client"]
     end
 
     subgraph TargetVM["Machine Virtuelle Cible (Hôte Linux Durci)"]
