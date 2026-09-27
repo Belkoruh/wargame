@@ -14,6 +14,7 @@
 
 ---
 
+
 ## 📜 Contexte & Scénario Immersif
 
 > **RÉFÉRENCE DE L'ALERTE :** `CERTFR-2026-ALE-ACKBAR`  
@@ -32,7 +33,9 @@ L'équipe d'exploitation d'Ackbar Industries a tenté d'effacer les traces de pa
 **Votre mission :**  
 En tant qu'opérateurs mandatés par l'ANSSI, vous devez mener un test d'intrusion réaliste sur l'infrastructure d'Ackbar Industries, retracer la chaîne d'attaque (kill chain), échapper au cloisonnement des conteneurs, investiguer les traces laissées par l'attaquant et **récupérer la preuve technique irréfutable : le Flag de validation**.
 
+
 ---
+
 
 ## 🏗️ Architecture Cible
 
@@ -62,6 +65,7 @@ flowchart TD
         end
     end
 ```
+
 
 ---
 
