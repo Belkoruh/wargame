@@ -118,7 +118,7 @@ Ouvrez ensuite votre navigateur sur `http://www.ackbar.fr` ! 🚀
 
 Le wargame est découpé en **5 phases chronologiques** suivant le framework **MITRE ATT&CK** :
 
-```text
+```
 ```
 
 | Phase | Objectif Opérationnel | Techniques Clés |
