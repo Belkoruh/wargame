@@ -64,7 +64,7 @@ flowchart TD
         end
 
         subgraph Tier1["Tier 1 — Cluster Web"]
-            Web1["🌐 ackbar-web-01<br/>Port SSH 22:22<br/>Privilégié & Volumes montés"]
+            Web1["🌐 ackbar-web-01<br/>"]
             Web2["🌐 ackbar-web-02<br/>Réplica Web Nginx"]
         end
 
