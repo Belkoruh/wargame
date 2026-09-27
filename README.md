@@ -53,10 +53,6 @@ L'infrastructure cible repose sur une pile **micro-services 3-tiers redondée** 
 
 ```mermaid
 flowchart TD
-    subgraph LAN["Réseau Local d'Évaluation (Bridge / DHCP)"]
-        Attacker["💻 Machine client"]
-    end
-
     subgraph TargetVM["Machine Virtuelle Cible (Hôte Linux Durci)"]
         subgraph Frontal["Frontal HTTP & DNS"]
             DNS["🧭 Serveur DNS Local (Port 53 udp/tcp)<br/>Résolution www.ackbar.fr"]
