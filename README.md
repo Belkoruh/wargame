@@ -26,7 +26,7 @@ Selon les premiers signalements reçus par le **CERT-FR**, des requêtes anormal
 
 L'équipe d'exploitation d'Ackbar Industries a tenté d'effacer les traces de panique, mais l'infrastructure semble compromise en profondeur : des bases de données ont été chiffrées et une archive sensible a été exfiltrée puis dissimulée localement.
 
-**Votre mission :**  
+Votre mission :
 En tant qu'opérateurs mandatés par l'ANSSI, vous devez mener un test d'intrusion réaliste sur l'infrastructure d'Ackbar Industries, retracer la chaîne d'attaque (kill chain), échapper au cloisonnement des conteneurs, investiguer les traces laissées par l'attaquant et **récupérer la preuve technique irréfutable : le Flag de validation.
 ---
 ## 🏗️ Architecture Cible
