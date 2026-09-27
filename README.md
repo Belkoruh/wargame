@@ -77,11 +77,6 @@ flowchart TD
             DB1["🗄️ ackbar-db-01"]
             DB2["🗄️ ackbar-db-02"]
         end
-
-        subgraph HostOS["Système Hôte Linux"]
-            Cron["⏰ Tâches d'exfiltration nocturne"]
-            Artifacts["📦 Artefacts & Sauvegardes chiffrées"]
-        end
     end
 
     Attacker -->|HTTP :80| LB
