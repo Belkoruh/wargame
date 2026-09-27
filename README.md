@@ -156,20 +156,6 @@ Le wargame est découpé en **5 phases chronologiques** suivant le framework **M
 
 ---
 
-## 🛠️ Boîte à Outils Conseillée
-
-Les outils classiques de sécurité offensive et d'investigation numérique sont recommandés :
-
-* **Reconnaissance & Scan :** `nmap`, `netcat`, `curl`, `whatweb`
-* **Énumération Web :** `gobuster`, `ffuf`, `Burp Suite`, `OWASP ZAP`
-* **Audit d'Authentification :** `hydra`, `medusa`, `ssh`
-* **Dictionnaire :** `rockyou.txt`
-* **Post-Exploitation & Docker :** `docker-cli`, `chroot`, scripts d'énumération Linux (`linpeas.sh`)
-* **Cassage de Hash & Déchiffrement :** `john the ripper`, `hashcat`, `unzip`, `openssl`
-* **Forensic :** `journalctl`, `grep`, `awk`, `find`, `stat`
-
----
-
 ## 💡 Indices Progressifs
 
 Vous êtes bloqué sur une étape ? Déroulez les indices ci-dessous un par un.
