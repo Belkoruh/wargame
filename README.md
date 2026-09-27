@@ -13,8 +13,6 @@
 </div>
 
 ---
-
-
 ## 📜 Contexte & Scénario Immersif
 
 > **RÉFÉRENCE DE L'ALERTE :** `CERTFR-2026-ALE-ACKBAR`  
@@ -32,11 +30,7 @@ L'équipe d'exploitation d'Ackbar Industries a tenté d'effacer les traces de pa
 
 **Votre mission :**  
 En tant qu'opérateurs mandatés par l'ANSSI, vous devez mener un test d'intrusion réaliste sur l'infrastructure d'Ackbar Industries, retracer la chaîne d'attaque (kill chain), échapper au cloisonnement des conteneurs, investiguer les traces laissées par l'attaquant et **récupérer la preuve technique irréfutable : le Flag de validation**.
-
-
 ---
-
-
 ## 🏗️ Architecture Cible
 
 L'infrastructure cible repose sur une pile **micro-services 3-tiers redondée** orchestrée sous Docker et exposée via un répartiteur de charge :
@@ -68,7 +62,6 @@ flowchart TD
 
 
 ---
-
 ## 🚀 Démarrage Rapide
 
 ### 1. Prérequis Matériels & Logiciels
@@ -115,7 +108,6 @@ Pour naviguer sur la boutique en ligne d'Ackbar Industries, deux méthodes s'off
 Ouvrez ensuite votre navigateur sur `http://www.ackbar.fr` ! 🚀
 
 ---
-
 ## 🎯 Objectifs de la Mission
 
 Le wargame est découpé en **5 phases chronologiques** suivant le framework **MITRE ATT&CK** :
@@ -129,7 +121,6 @@ Le wargame est découpé en **5 phases chronologiques** suivant le framework **M
 | **05** | **Cryptanalyse & Flag** | Découverte d'artefacts dissimulés, cassage de condensat cryptographique et déchiffrement de l'archive finale. |
 
 ---
-
 ## ⚖️ Règles d'Engagement
 
 * ✅ **Périmètre autorisé :** Uniquement la machine virtuelle du challenge.
@@ -142,7 +133,6 @@ Le wargame est découpé en **5 phases chronologiques** suivant le framework **M
   ```
 
 ---
-
 ## 💡 Indices Progressifs
 
 Vous êtes bloqué sur une étape ? Déroulez les indices ci-dessous un par un.
@@ -190,8 +180,6 @@ Vous êtes bloqué sur une étape ? Déroulez les indices ci-dessous un par un.
 </details>
 
 ---
-
-
 ## 👥 Crédits & Remerciements
 
 * **Conception & Scénarisation :** Équipe Wargame ESD Cybersecurity Academy
