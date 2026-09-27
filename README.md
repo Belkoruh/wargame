@@ -10,8 +10,6 @@
 
 **Épreuve d'audit offensif, d'évasion de conteneur et d'investigation numérique (Threat Hunting).**
 
-[📜 Ordre de Mission](#-contexte--scénario-immersif) • [🏗️ Architecture](#-%EF%B8%8F-architecture-cible) • [🚀 Démarrage Rapide](#-démarrage-rapide) • [🎯 Objectifs](#-objectifs-de-la-mission) • [⚖️ Règles](#%EF%B8%8F-règles-dengagement) • [💡 Indices](#-indices-progressifs)
-
 </div>
 
 ---
