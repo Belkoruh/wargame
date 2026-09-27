@@ -8,17 +8,6 @@
 ![Catégorie](https://img.shields.io/badge/Cat%C3%A9gories-Web%20%7C%20Docker%20%7C%20Privesc%20%7C%20Forensic-2A9D8F?style=for-the-badge)
 ![Format Flag](https://img.shields.io/badge/Flag-ESD%7B...%7D-264653?style=for-the-badge&logo=flag&logoColor=white)
 
-<br/>
-
-```text
-       ___        _     _                   ___           _           _        _           
-      / _ \      | |   | |                 |_ _|         | |         | |      (_)          
-     / /_\ \ ___ | | __| |__   __ _ _ __    | | _ __   __| |_   _ ___| |_ _ __ _  ___  ___ 
-     |  _  |/ __|| |/ /| '_ \ / _` | '__|   | || '_ \ / _` | | | / __| __| '__| |/ _ \/ __|
-     | | | | (__ |   < | |_) | (_| | |     _| || | | | (_| | |_| \__ \ |_| |  | |  __/\__ \
-     \_| |_/\___||_|\_\|_.__/ \__,_|_|    |___/|_| |_|\__,_|\__,_|___/\__|_|  |_|\___||___/
-```
-
 **Épreuve d'audit offensif, d'évasion de conteneur et d'investigation numérique (Threat Hunting).**
 
 [📜 Ordre de Mission](#-contexte--scénario-immersif) • [🏗️ Architecture](#-%EF%B8%8F-architecture-cible) • [🚀 Démarrage Rapide](#-démarrage-rapide) • [🎯 Objectifs](#-objectifs-de-la-mission) • [⚖️ Règles](#%EF%B8%8F-règles-dengagement) • [💡 Indices](#-indices-progressifs)
