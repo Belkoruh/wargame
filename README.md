@@ -78,19 +78,6 @@ flowchart TD
             DB2["🗄️ ackbar-db-02"]
         end
     end
-
-    Attacker -->|HTTP :80| LB
-    Attacker -->|DNS :53| DNS
-    Attacker -.->|SSH :22| Web1
-    LB --> Web1
-    LB --> Web2
-    Web1 --> App1
-    Web2 --> App2
-    App1 --> DB1
-    App2 --> DB2
-    Web1 -.->|Évasion T1611| HostOS
-    HostOS --- Cron
-    HostOS --- Artifacts
 ```
 
 ---
