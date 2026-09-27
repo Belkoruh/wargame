@@ -8,8 +8,6 @@
 ![Catégorie](https://img.shields.io/badge/Cat%C3%A9gories-Web%20%7C%20Docker%20%7C%20Privesc%20%7C%20Forensic-2A9D8F?style=for-the-badge)
 ![Format Flag](https://img.shields.io/badge/Flag-ESD%7B...%7D-264653?style=for-the-badge&logo=flag&logoColor=white)
 
-**Épreuve d'audit offensif, d'évasion de conteneur et d'investigation numérique (Threat Hunting).**
-
 </div>
 
 ---
