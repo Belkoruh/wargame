@@ -65,17 +65,17 @@ flowchart TD
 
         subgraph Tier1["Tier 1 — Cluster Web"]
             Web1["🌐 ackbar-web-01<br/>"]
-            Web2["🌐 ackbar-web-02<br/>Réplica Web Nginx"]
+            Web2["🌐 ackbar-web-02<br/>"]
         end
 
         subgraph Tier2["Tier 2 — Cluster Applicatif"]
-            App1["⚙️ ackbar-app-01 (API Flask)"]
-            App2["⚙️ ackbar-app-02 (API Flask)"]
+            App1["⚙️ ackbar-app-01"]
+            App2["⚙️ ackbar-app-02"]
         end
 
         subgraph Tier3["Tier 3 — Cluster Données"]
-            DB1["🗄️ ackbar-db-01 (MariaDB)"]
-            DB2["🗄️ ackbar-db-02 (MariaDB)"]
+            DB1["🗄️ ackbar-db-01"]
+            DB2["🗄️ ackbar-db-02"]
         end
 
         subgraph HostOS["Système Hôte Linux"]
