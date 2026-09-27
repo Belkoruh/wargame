@@ -119,7 +119,6 @@ Ouvrez ensuite votre navigateur sur `http://www.ackbar.fr` ! 🚀
 Le wargame est découpé en **5 phases chronologiques** suivant le framework **MITRE ATT&CK** :
 
 ```text
-[Phase 1 : Reconnaissance] ➔ [Phase 2 : Accès Initial] ➔ [Phase 3 : Évasion Docker] ➔ [Phase 4 : Threat Hunting] ➔ [Phase 5 : Capture du Flag]
 ```
 
 | Phase | Objectif Opérationnel | Techniques Clés |
