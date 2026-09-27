@@ -193,19 +193,6 @@ Vous êtes bloqué sur une étape ? Déroulez les indices ci-dessous un par un.
 
 ---
 
-## 📊 Matrice d'Évaluation (Critères Académiques)
-
-La résolution de ce wargame permet de valider les compétences suivantes :
-
-| Compétence Évaluée | Critère de Succès | Pondération Indicative |
-| :--- | :--- | :---: |
-| **Reconnaissance & Scan** | Détection du load balancer, cartographie des services et des nœuds backend | 15 % |
-| **Intrusion Initiale** | Prise de pied réussie sur le conteneur frontal | 20 % |
-| **Évasion de Bac à Sable** | Élévation de privilèges vers l'hôte via les montages Docker | 25 % |
-| **Investigation Forensic** | Identification de la persistance cron, de l'IP C2 et des traces d'effacement | 20 % |
-| **Cryptanalyse & Flag** | Cassage du condensat MD5, extraction de l'archive et soumission du flag exact | 20 % |
-
----
 
 ## 👥 Crédits & Remerciements
 
